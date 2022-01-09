@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ed038af-6911-4f2a-92c9-4143888bf955" name="Default Changelist" comment="" />
+    <list default="true" id="8ed038af-6911-4f2a-92c9-4143888bf955" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/readMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/readMe.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -17,6 +29,9 @@
     </option>
   </component>
   <component name="ProjectId" id="23N2idqXQ3OpYJrcgnNZnjtwwlb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -25,10 +40,79 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.BSExist">
+    <configuration name="BSExist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.day01.BSExist" />
+      <module name="algorithm-2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.day01.BubbleSort" />
+      <module name="algorithm-2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.day01.InsertSort" />
+      <module name="algorithm-2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.day01.SelectSort" />
+      <module name="algorithm-2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BSExist" />
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.SelectSort" />
+        <item itemvalue="Application.BubbleSort" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,7 +124,73 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641560351497</updated>
+      <workItem from="1641560352990" duration="8082000" />
+      <workItem from="1641575819197" duration="608000" />
+      <workItem from="1641576641653" duration="2000" />
+      <workItem from="1641577256911" duration="757000" />
+      <workItem from="1641578980756" duration="10307000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1921" height="182" key="GridCell.Tab.0.bottom" timestamp="1641735215563">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="218" key="GridCell.Tab.0.bottom/-1920.0.1280.720/0.0.1920.1080@0.0.1920.1080" timestamp="1641567890406" />
+    <state width="1921" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1641735215563" />
+    <state width="1921" height="182" key="GridCell.Tab.0.center" timestamp="1641735215563">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="218" key="GridCell.Tab.0.center/-1920.0.1280.720/0.0.1920.1080@0.0.1920.1080" timestamp="1641567890406" />
+    <state width="1921" height="182" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1641735215563" />
+    <state width="1921" height="182" key="GridCell.Tab.0.left" timestamp="1641735215563">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="218" key="GridCell.Tab.0.left/-1920.0.1280.720/0.0.1920.1080@0.0.1920.1080" timestamp="1641567890406" />
+    <state width="1921" height="182" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1641735215563" />
+    <state width="1921" height="182" key="GridCell.Tab.0.right" timestamp="1641735215563">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="218" key="GridCell.Tab.0.right/-1920.0.1280.720/0.0.1920.1080@0.0.1920.1080" timestamp="1641567890406" />
+    <state width="1921" height="182" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1641735215563" />
+    <state width="1921" height="362" key="GridCell.Tab.1.bottom" timestamp="1641733316938">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="362" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1641733316938" />
+    <state width="1921" height="362" key="GridCell.Tab.1.center" timestamp="1641733316938">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="362" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1641733316938" />
+    <state width="1921" height="362" key="GridCell.Tab.1.left" timestamp="1641733316938">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="362" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1641733316938" />
+    <state width="1921" height="362" key="GridCell.Tab.1.right" timestamp="1641733316938">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="362" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1641733316938" />
+    <state x="461" y="184" key="SettingsEditor" timestamp="1641565556973">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="184" key="SettingsEditor/-1920.0.1280.720/0.0.1920.1080@0.0.1920.1080" timestamp="1641565556973" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1641734438416">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/-1920.0.1280.720/0.0.1920.1080@0.0.1920.1080" timestamp="1641563670033" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1641734438416" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/day01/BSExist.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
